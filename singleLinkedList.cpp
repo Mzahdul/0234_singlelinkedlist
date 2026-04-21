@@ -13,5 +13,12 @@ class SingleLinkedList
 {
     Node *START;
 
+public:
+    SingleLinkedList() 
+    {
+        START = NULL;
+    }
 
-}
+    void addNode() 
+    
+};
