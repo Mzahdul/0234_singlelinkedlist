@@ -144,3 +144,7 @@ int main()
                 cout << "\nList Kosong\n";
                 break;
              }
+
+            cout << "\nMasukan nomer mahasiswa yang akan dihapus : ";
+            cin >> nim;
+
